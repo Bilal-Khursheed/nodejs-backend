@@ -1,0 +1,57 @@
+{"message":"404 - Not Found - GET -/nlkasn - ::1","level":"error"}
+{"message":"404 - Not Found - GET -/users/helo - ::1","level":"error"}
+{"message":"500 - users is not defined - GET -/users/ - ::1","level":"error"}
+{"message":"404 - Not Found - GET -/auth/signup - ::1","level":"error"}
+{"message":"404 - Not Found - POST -/auth/signup - ::1","level":"error"}
+{"message":"404 - Not Found - POST -/login - ::1","level":"error"}
+{"message":"404 - Not Found - GET -/auth/signup - ::1","level":"error"}
+{"message":"404 - Not Found - POST -/auth/signup - ::1","level":"error"}
+{"message":"404 - Not Found - POST -/auth/signup - ::1","level":"error"}
+{"message":"404 - Not Found - POST -//auth/signup - ::1","level":"error"}
+{"message":"404 - Not Found - GET -//auth/login - ::1","level":"error"}
+{"message":"404 - Not Found - GET -/favicon.ico - ::1","level":"error"}
+{"message":"404 - Not Found - GET -/login - ::1","level":"error"}
+{"message":"404 - Not Found - GET -/login - ::1","level":"error"}
+{"message":"404 - Not Found - GET -/login - ::1","level":"error"}
+{"message":"404 - Not Found - POST -/auth/login - ::1","level":"error"}
+{"message":"404 - Not Found - GET -/login - ::1","level":"error"}
+{"message":"404 - Not Found - GET -/login - ::1","level":"error"}
+{"message":"404 - Not Found - GET -/login - ::1","level":"error"}
+{"message":"404 - Not Found - GET -/login - ::1","level":"error"}
+{"message":"404 - Not Found - GET -/login - ::1","level":"error"}
+{"message":"404 - Not Found - GET -/login - ::1","level":"error"}
+{"message":"404 - Not Found - GET -/login - ::1","level":"error"}
+{"message":"500 - users.filter is not a function - POST -/auth/login - ::1","level":"error"}
+{"message":"500 - userName is not defined - POST -/auth/login - ::1","level":"error"}
+{"message":"404 - Not Found - GET -/login - ::1","level":"error"}
+{"message":"404 - Not Found - GET -/http://localhost:3000/home - ::1","level":"error"}
+{"message":"404 - Not Found - GET -/http://localhost:3000/home - ::1","level":"error"}
+{"message":"404 - Not Found - GET -/http://localhost:3000/home - ::1","level":"error"}
+{"message":"404 - Not Found - GET -/http://localhost:3000/home - ::1","level":"error"}
+{"message":"404 - Not Found - GET -/http://localhost:3000/home - ::1","level":"error"}
+{"message":"404 - Not Found - GET -/http://localhost:3000/home - ::1","level":"error"}
+{"message":"404 - Not Found - GET -/http://localhost:3000/home - ::1","level":"error"}
+{"message":"404 - Not Found - GET -/home - ::1","level":"error"}
+{"message":"404 - Not Found - GET -/home - ::1","level":"error"}
+{"message":"404 - Not Found - GET -/http://localhost:3000/home - ::1","level":"error"}
+{"message":"404 - Not Found - GET -/http://localhost:3000/home - ::1","level":"error"}
+{"message":"404 - Not Found - GET -/home - ::1","level":"error"}
+{"message":"404 - Not Found - GET -/home - ::1","level":"error"}
+{"message":"404 - Not Found - GET -/home - ::1","level":"error"}
+{"message":"404 - Not Found - GET -/home - ::1","level":"error"}
+{"message":"404 - Not Found - POST -/home - ::1","level":"error"}
+{"message":"404 - Not Found - POST -/home - ::1","level":"error"}
+{"message":"404 - Not Found - POST -/home - ::1","level":"error"}
+{"message":"404 - Not Found - POST -/auth/home - ::1","level":"error"}
+{"message":"404 - Not Found - POST -/auth/home - ::1","level":"error"}
+{"message":"404 - Not Found - POST -/auth/home - ::1","level":"error"}
+{"message":"404 - Not Found - POST -//home - ::1","level":"error"}
+{"message":"404 - Not Found - POST -///home - ::1","level":"error"}
+{"message":"404 - Not Found - POST -//home - ::1","level":"error"}
+{"message":"404 - Not Found - GET -/auth/signup - ::1","level":"error"}
+{"message":"500 - passport.logOut is not a function - DELETE -/user/logout - ::1","level":"error"}
+{"message":"404 - Not Found - GET -/auth/login - ::1","level":"error"}
+{"message":"500 - Cannot read property 'length' of undefined - POST -/auth/login - ::1","level":"error"}
+{"message":"500 - user is not defined - POST -/user/home - ::1","level":"error"}
+{"level":"error","message":"Unable to connect to the database:"}
+{"level":"error","message":"Unable to connect to the database:"}
