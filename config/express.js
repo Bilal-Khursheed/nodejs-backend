@@ -7,7 +7,6 @@ var winston = require("./winston");
 const appRoot = require("app-root-path");
 var session = require('express-session')
 var passport = require('passport')
-const {sequelize} = require('../models/index')
 var app = express();
 
 var indexRouter = require("../app/modules/users/routes/user.home.route");
@@ -16,11 +15,6 @@ var auth = require("../app/modules/users/routes/user.auth.route")(passport);
 require('./passport')(passport)
 //sequelize create table 
 
-// let dataBase = async()=>{
-//   console.log("working in this functions")
-//   await sequelize.sync({alter: true})
-// }
-// dataBase()
 
 // view engine setup
 app.set("views", path.join(`${appRoot}`, "views"));

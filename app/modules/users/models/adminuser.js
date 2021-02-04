@@ -8,11 +8,11 @@ module.exports = (sequelize, DataTypes) => {
      * The `models/index` file will call this method automatically.
      */
     static associate(models) {
-      adminUser.belongsTo(models.User,{
-        foreignKey:{
-          name:'UserId',allowNull: false
-        }
-      })
+      // adminUser.belongsTo(models.User,{
+      //   foreignKey:{
+      //     name:'UserId',allowNull: false
+      //   }
+      // })
     }
   }
   adminUser.init(
@@ -28,9 +28,6 @@ module.exports = (sequelize, DataTypes) => {
       email: {
         type: DataTypes.STRING,
         allowNull: false,
-      },
-      UserId:{
-        type: DataTypes.STRING
       },
       password: {
         type: DataTypes.STRING,

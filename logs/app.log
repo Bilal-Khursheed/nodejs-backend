@@ -917,3 +917,46 @@
 {"message":"Loading model file app/modules/users/models/adminuser.js","level":"info"}
 {"message":"Loading model file app/modules/users/models/user.js","level":"info"}
 {"message":"Connection has been established successfully.","level":"info"}
+{"message":"Connected to the database","level":"info"}
+{"message":"models are loading ...","level":"info"}
+{"message":"Loading model file app/modules/users/models/adminuser.js","level":"info"}
+{"message":"Loading model file app/modules/users/models/user.js","level":"info"}
+{"message":"Connection has been established successfully.","level":"info"}
+{"message":"::1 - - [04/Feb/2021:09:14:21 +0000] \"POST /user/home HTTP/1.1\" 200 12 \"-\" \"PostmanRuntime/7.26.10\"\n","level":"info"}
+{"message":"::1 - - [04/Feb/2021:09:16:32 +0000] \"POST /auth/signup HTTP/1.1\" - - \"-\" \"PostmanRuntime/7.26.10\"\n","level":"info"}
+{"message":"::1 - - [04/Feb/2021:09:54:20 +0000] \"POST /user/home HTTP/1.1\" 200 12 \"-\" \"PostmanRuntime/7.26.10\"\n","level":"info"}
+{"message":"Connected to the database","level":"info"}
+{"message":"models are loading ...","level":"info"}
+{"message":"Loading model file app/modules/users/models/adminuser.js","level":"info"}
+{"message":"Loading model file app/modules/users/models/user.js","level":"info"}
+{"message":"Connection has been established successfully.","level":"info"}
+{"message":"Connected to the database","level":"info"}
+{"message":"models are loading ...","level":"info"}
+{"message":"Loading model file app/modules/users/models/adminuser.js","level":"info"}
+{"message":"Loading model file app/modules/users/models/user.js","level":"info"}
+{"message":"Connection has been established successfully.","level":"info"}
+{"message":"Connected to the database","level":"info"}
+{"message":"models are loading ...","level":"info"}
+{"message":"Loading model file app/modules/users/models/adminuser.js","level":"info"}
+{"message":"Loading model file app/modules/users/models/user.js","level":"info"}
+{"message":"Connection has been established successfully.","level":"info"}
+{"message":"Connected to the database","level":"info"}
+{"message":"models are loading ...","level":"info"}
+{"message":"Loading model file app/modules/users/models/adminuser.js","level":"info"}
+{"message":"Loading model file app/modules/users/models/user.js","level":"info"}
+{"message":"Connection has been established successfully.","level":"info"}
+{"message":"Connected to the database","level":"info"}
+{"message":"models are loading ...","level":"info"}
+{"message":"Loading model file app/modules/users/models/adminuser.js","level":"info"}
+{"message":"Loading model file app/modules/users/models/user.js","level":"info"}
+{"message":"Connection has been established successfully.","level":"info"}
+{"message":"Connected to the database","level":"info"}
+{"message":"models are loading ...","level":"info"}
+{"message":"Loading model file app/modules/users/models/adminuser.js","level":"info"}
+{"message":"Loading model file app/modules/users/models/user.js","level":"info"}
+{"message":"Connection has been established successfully.","level":"info"}
+{"message":"Connected to the database","level":"info"}
+{"message":"models are loading ...","level":"info"}
+{"message":"Loading model file app/modules/users/models/adminuser.js","level":"info"}
+{"message":"Loading model file app/modules/users/models/user.js","level":"info"}
+{"message":"Connection has been established successfully.","level":"info"}

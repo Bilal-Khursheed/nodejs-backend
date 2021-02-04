@@ -14,7 +14,6 @@ module.exports = {
       lastName: {
         type: Sequelize.STRING
       },
-      
       email: {
         type: Sequelize.STRING
       },
@@ -31,9 +30,7 @@ module.exports = {
       }
     });
 
-    // Promise.all([
-    //   queryInterface.addColumn('', '', {})
-    // ]);
+   
   },
   down: async (queryInterface, Sequelize) => {
     await queryInterface.dropTable('Users');

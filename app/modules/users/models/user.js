@@ -9,10 +9,10 @@ module.exports = (sequelize, DataTypes) => {
      */
     static associate(models) {
       // define association here
-      this.belongsToMany(models.adminUser,{
-        foreignKey:"UserId",
-        allowNull: false
-      })
+      // this.belongsToMany(models.adminUser,{
+      //   foreignKey:"UserId",
+      //   allowNull: false
+      // })
     }
   }
   User.init(
@@ -29,9 +29,7 @@ module.exports = (sequelize, DataTypes) => {
         type: DataTypes.STRING,
         allowNull: false,
       },
-      address: {
-        type: DataTypes.STRING,
-      },
+  
       password: {
         type: DataTypes.STRING,
         allowNull: false,
