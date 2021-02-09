@@ -55,3 +55,13 @@
 {"message":"500 - user is not defined - POST -/user/home - ::1","level":"error"}
 {"level":"error","message":"Unable to connect to the database:"}
 {"level":"error","message":"Unable to connect to the database:"}
+{"message":"500 - body is not defined - POST -/auth/signup - ::1","level":"error"}
+{"message":"500 - errors.exists is not a function - POST -/auth/signup - ::1","level":"error"}
+{"message":"404 - Not Found - POST -/auth/validate - ::1","level":"error"}
+{"message":"404 - Not Found - POST -/auth/validate - ::1","level":"error"}
+{"message":"404 - Not Found - POST -/auth/validate - ::1","level":"error"}
+{"message":"404 - Not Found - POST -/auth/validate - ::1","level":"error"}
+{"message":"500 - user is not defined - POST -/user/home - ::1","level":"error"}
+{"message":"404 - Not Found - GET -/ - ::1","level":"error"}
+{"message":"404 - Not Found - GET -/favicon.ico - ::1","level":"error"}
+{"message":"404 - Not Found - GET -/user/home - ::1","level":"error"}

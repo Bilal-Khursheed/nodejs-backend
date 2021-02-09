@@ -6,6 +6,7 @@ let login = (req, res, next) => {
 
 let signup = async (req, res, next) => {
   try {
+    
     let newUser = {
         firstName: req.body.firstName ? req.body.firstName : "",
         lastName: req.body.lastName ? req.body.lastName : "",

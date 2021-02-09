@@ -12,7 +12,10 @@ router.post("/home", (req, res, next) => {
   }
 }, (req, res, next) => {
 
-  res.send(`welcome home`)
+  res.json({
+    message: "Welcome to the Home route",
+    user:req.user
+  })
 
 });
 
